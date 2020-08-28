@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b172107a-1ab7-4370-ba73-9ab959ae616c" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/10.55a95992.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/11.dfe9f09f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/12.92ac2a71.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/13.5a59d7d9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/js/app.3ad4f879.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/IDEA/1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/avatar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/hero.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/IDEA/IDEA使用问题总结(一).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/Vue学习/1、如何使页面缩放不变形.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/views/综合/截止此时，博主编写的项目合集.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +31,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\blog\docs\views\IDEA" />
-      <recent name="F:\Service\blog\docs\.vuepress\public" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\blog\public\.vuepress\public" />
       <recent name="F:\blog\docs\.vuepress\public\IDEA" />
       <recent name="F:\Service\blog\docs\views\综合" />
+      <recent name="F:\Service\blog\docs\.vuepress\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\blog\public\.vuepress\public" />
+      <recent name="F:\blog\docs\views\IDEA" />
       <recent name="F:\Service\blog\docs\.vuepress\public" />
     </key>
   </component>
@@ -138,6 +122,9 @@
       <workItem from="1594210796438" duration="368000" />
       <workItem from="1598583336587" duration="290000" />
       <workItem from="1598584424464" duration="329000" />
+      <workItem from="1598589798468" duration="216000" />
+      <workItem from="1598590122474" duration="1260000" />
+      <workItem from="1598592277457" duration="523000" />
     </task>
     <servers />
   </component>
@@ -148,30 +135,46 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="617" y="215" key="#Notifications" timestamp="1598589819704">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="215" key="#Notifications/0.0.2048.1112@0.0.2048.1112" timestamp="1598589819704" />
     <state x="297" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593138821467">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="297" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1593138821467" />
-    <state x="481" y="-1130" key="FileChooserDialogImpl" timestamp="1593869740531">
-      <screen x="-324" y="-1440" width="2048" height="1112" />
+    <state x="617" y="215" key="#插件" timestamp="1598590161941">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="215" key="#插件/0.0.2048.1112@0.0.2048.1112" timestamp="1598590161941" />
+    <state x="805" y="310" key="FileChooserDialogImpl" timestamp="1598591384887">
+      <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="481" y="-1130" key="FileChooserDialogImpl/0.0.1536.824/-324.-1440.2048.1112@-324.-1440.2048.1112" timestamp="1593869740531" />
-    <state x="805" y="310" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1593842680382" />
-    <state width="2005" height="348" key="GridCell.Tab.0.bottom" timestamp="1598584752592">
+    <state x="805" y="310" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1598591384887" />
+    <state width="2005" height="348" key="GridCell.Tab.0.bottom" timestamp="1598592868976">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="348" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1598584752592" />
-    <state width="2005" height="348" key="GridCell.Tab.0.center" timestamp="1598584752592">
+    <state width="2005" height="348" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1598592868976" />
+    <state width="2005" height="348" key="GridCell.Tab.0.center" timestamp="1598592868976">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="348" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1598584752592" />
-    <state width="2005" height="348" key="GridCell.Tab.0.left" timestamp="1598584752592">
+    <state width="2005" height="348" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1598592868976" />
+    <state width="2005" height="348" key="GridCell.Tab.0.left" timestamp="1598592868976">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="348" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1598584752592" />
-    <state width="2005" height="348" key="GridCell.Tab.0.right" timestamp="1598584752592">
+    <state width="2005" height="348" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1598592868976" />
+    <state width="2005" height="348" key="GridCell.Tab.0.right" timestamp="1598592868976">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="348" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1598584752592" />
+    <state width="2005" height="348" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1598592868976" />
+    <state x="526" y="198" key="SettingsEditor" timestamp="1598590679405">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="526" y="198" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1598590679405" />
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2" timestamp="1598592929832">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1598592929832" />
   </component>
 </project>
