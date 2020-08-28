@@ -2,7 +2,7 @@ module.exports = {
   "base":"/",
   "title": "慕随心",
   "description": "见素抱朴，少私寡欲，绝学无忧",
-  "dest": "public",
+  "dest": "docs",
   "theme": "reco",
   "head": [
     [
